@@ -79,6 +79,12 @@ button {
   cursor: pointer;
 }
 
+.quiz__footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1rem;
+}
 
 .question__container {
   border-bottom: 0.8px solid #DBDEF0;
